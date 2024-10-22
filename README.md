@@ -1,5 +1,3 @@
-Here's a cleaner version of your `README.md` file:
-
 # Determine Probability using Pomegranate 0.14.0
 
 ## Prerequisites
