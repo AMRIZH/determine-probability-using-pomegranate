@@ -1,5 +1,5 @@
 # Determine Probability using Pomegranate 0.14.0
-
+![model](model.jpeg)
 ## Prerequisites
 - **Python 3.9**: Download and install from [here](https://www.python.org/downloads/release/python-3913/). 
 - Make sure to add Python to your system PATH during installation.
